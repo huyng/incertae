@@ -13,7 +13,7 @@ Article: [Overview of estimating uncertainty in deep neural networks](https://bl
 * [Ensemble Regression](ensemble_regression.ipynb)
 
 <div>
-    <img src='https://user-images.githubusercontent.com/121183/73995021-45573600-490c-11ea-93f9-174a3f678157.png' width="45%" style='float:left; padding:10px; border: 1px solid gray;'/>
+    <img src='https://user-images.githubusercontent.com/121183/74066699-7424e900-49ac-11ea-88cd-17913ed91631.png' width="45%" style='float:left; padding:10px; border: 1px solid gray;'/>
     <img src='https://user-images.githubusercontent.com/121183/73995354-2f964080-490d-11ea-8e27-4f479310759a.png' width="45%" style='float:left; padding:10px; border: 1px solid gray;'/>
 </div>
 
@@ -23,7 +23,7 @@ Article: [Overview of estimating uncertainty in deep neural networks](https://bl
 * [Ensemble Classification](ensemble_classification.ipynb)
 
 <div>
-    <img src='https://user-images.githubusercontent.com/121183/74066699-7424e900-49ac-11ea-88cd-17913ed91631.png' width="45%" style='float:left; padding:10px; border: 1px solid gray;' />
+    <img src='https://user-images.githubusercontent.com/121183/73995392-4f2d6900-490d-11ea-8167-bd4f7bab12af.png' width="45%" style='float:left; padding:10px; border: 1px solid gray;' />
     <img src='https://user-images.githubusercontent.com/121183/73995407-5f454880-490d-11ea-9e11-71dc5724ee52.png' width="45%" style='float:left; padding:10px; border: 1px solid gray;' />
     <img src='https://user-images.githubusercontent.com/121183/74005763-c8898380-492e-11ea-9f82-fa63ab8e858e.png' width="45%" style='float:left; padding:10px; border: 1px solid gray;' />
 </div>
