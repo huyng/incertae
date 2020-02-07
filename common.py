@@ -17,7 +17,8 @@ def create_toy_regression_dataset(xmin=-10., xmax=10, noise_std=.2):
     return x_gt, y_gt, x_trn, y_trn, x_tst, y_tst
 
 def plot_regression_model_analysis(gt=None,  trn=None, tst=None,
-                                   pred=None, xlim=None, ylim=None):
+                                   pred=None, xlim=None, ylim=None,
+                                   title=None):
     if gt:
         x_gt, y_gt = gt
         plt.plot(x_gt, y_gt, c='#F0AA00', 
@@ -46,6 +47,9 @@ def plot_regression_model_analysis(gt=None,  trn=None, tst=None,
         
     if ylim:
         plt.ylim(*ylim)
+    
+    if title:
+        plt.title(title)
         
     plt.xlabel('x')
     plt.ylabel('y')
