@@ -25,7 +25,7 @@ Article: [Overview of estimating uncertainty in deep neural networks](https://bl
 <div>
     <img src='https://user-images.githubusercontent.com/121183/73995392-4f2d6900-490d-11ea-8167-bd4f7bab12af.png' width="45%" style='float:left; padding:10px; border: 1px solid gray;' />
     <img src='https://user-images.githubusercontent.com/121183/73995407-5f454880-490d-11ea-9e11-71dc5724ee52.png' width="45%" style='float:left; padding:10px; border: 1px solid gray;' />
-    <img src='https://user-images.githubusercontent.com/121183/73995436-76843600-490d-11ea-85b9-9e42bc4ac9c1.png' width="45%" style='float:left; padding:10px; border: 1px solid gray;' />
+    <img src='https://user-images.githubusercontent.com/121183/74005763-c8898380-492e-11ea-9f82-fa63ab8e858e.png' width="45%" style='float:left; padding:10px; border: 1px solid gray;' />
 </div>
 
 
