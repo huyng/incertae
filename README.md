@@ -12,9 +12,10 @@ Article: [Overview of estimating uncertainty in deep neural networks](https://bl
 * [MC Dropout Regression](mcdrop_regression.ipynb)
 * [Ensemble Regression](ensemble_regression.ipynb)
 
-![image](https://user-images.githubusercontent.com/121183/73995021-45573600-490c-11ea-93f9-174a3f678157.png)
-
-![image](https://user-images.githubusercontent.com/121183/73995354-2f964080-490d-11ea-8e27-4f479310759a.png)
+<div>
+    <img src='https://user-images.githubusercontent.com/121183/73995021-45573600-490c-11ea-93f9-174a3f678157.png' width="50%" />
+    <img src='https://user-images.githubusercontent.com/121183/73995354-2f964080-490d-11ea-8e27-4f479310759a.png' width="50%" />
+</div>
 
 ### Classification
 
