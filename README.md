@@ -9,8 +9,8 @@ Article: [Overview of estimating uncertainty in deep neural networks](https://bl
 
 Task:
 
-* [MC Dropout Regression](/blob/master/mcdrop_regression.ipynb)
-* [MC Dropout Classification](/blob/master/mcdrop_classification.ipynb)
+* [MC Dropout Regression](mcdrop_regression.ipynb)
+* [MC Dropout Classification](mcdrop_classification.ipynb)
 
-* [Ensemble Regression](/blob/master/ensemble_regression.ipynb)
-* [Ensemble Classification](/blob/master/ensemble_classification.ipynb)
+* [Ensemble Regression](ensemble_regression.ipynb)
+* [Ensemble Classification](ensemble_classification.ipynb)
