@@ -124,5 +124,4 @@ def plot_multiclass_calibration_curve(probs, labels, bins=10, title=None):
     plt.title(title+'\n')
     plt.xticks(midpoints, rotation=-45)
     plt.legend(loc='upper left')
-    plt.tight_layout()
     return midpoints, accuracies, mean_confidences
